@@ -12,8 +12,8 @@ from app.services.github_service import GithubService
 
 class Installer:
     async def check(self) -> bool:
-        if version_info < (3, 7):
-            console.print("[red]Please upgrade your Python version to 3.7.0 or higher")
+        if version_info < (3, 8):
+            console.print("[red]Please upgrade your Python version to 3.8.0 or higher")
             return False
 
         service = GithubService()
