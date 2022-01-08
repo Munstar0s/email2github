@@ -22,6 +22,8 @@ $ . venv/bin/activate
 $ python -m pip install -r requirements.txt
 ```
 
+This tool uses the Github API. Please create a personal access token by following [this documentation](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). The scope of the token must include "repo" and "delete_repo", as the tool will create and delete fake private repositories.
+
 ## Usage
 
 ```
