@@ -1,7 +1,7 @@
 <h1 align="center">email2github</h1>
 <p align="center">Identify Github accounts associated with email addresses</p>
 <p align="center">
-  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"></a>
+  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.8-green.svg"></a>
   <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
@@ -19,7 +19,7 @@ $ python3 -m venv venv
 $ . venv/bin/activate
 
 # Install the requirements
-$ python -m pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 This tool uses the Github API. Please create a personal access token by following [this documentation](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). The scope of the token must include "repo" and "delete_repo", as the tool will create and delete fake private repositories.
