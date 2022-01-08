@@ -1,9 +1,9 @@
 <h1 align="center">email2github</h1>
 <p align="center">Identify Github accounts associated with email addresses</p>
 <p align="center">
-   <a target="_blank" href="https://github.com/s0md3v/Zen/releases" title="Latest release"><img src="https://img.shields.io/github/v/release/h51un6/email2github.svg" /></a>
-  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.8-green.svg"></a>
-  <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.8-green.svg" /></a>
+  <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
+  <a target="_blank" href="https://github.com/s0md3v/Zen/releases" title="Latest release"><img src="https://img.shields.io/github/v/release/h51un6/email2github.svg" /></a>
 </p>
 
 ## Installation
